@@ -1,5 +1,8 @@
 a{
   display: inline;
   text-decoration: none;
+  color: gray;
+}
+.header{
   text-align: center;
 }

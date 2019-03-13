@@ -1,8 +1,10 @@
 a{
-  display: inline;
+  display: inline-block;
   text-decoration: none;
   color: gray;
+  padding: 10px;
+  background-color: black;
 }
-#header{
+div a. #header{
   text-align: center;
 }

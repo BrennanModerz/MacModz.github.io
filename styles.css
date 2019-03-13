@@ -9,7 +9,11 @@ a{
 }
 #header{
   text-align: center;
-  padding: 20px;
   background-color: black;
   margin: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
